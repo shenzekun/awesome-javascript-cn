@@ -18,14 +18,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
 
 * 英文还不错，能读懂英文并用自己的话复述；
 * 在用 JavaScript；
 
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「JS大全」
+如有兴趣，请加 QQ：50872495。加 Q 时请注明「JS大全」 -->
 
 * * *
 
@@ -45,13 +45,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、[冰斌](http://www.jobbole.com/members/libing1209/)、[邢敏](https://github.com/dfghj44444)
+- 贡献者：[刘健超](https://github.com/JChehe)、MissNull、一兮、Mr. Somebody、Jason Lee、[Tab_Gre](http://www.jobbole.com/members/ivanberry/)、[GavinZhang](http://www.jobbole.com/members/KeepMoving/)、[shadowkimi520](https://github.com/shadowkimi520/)、[zhoutk](http://www.jobbole.com/members/zhoutk/)、[tzstone](http://www.jobbole.com/members/tzstone)、[Erichain](http://www.jobbole.com/members/Erichain)、[chen](http://www.jobbole.com/members/atmfans)、[ElizabethMa](https://github.com/ElizabethMa)、[LeuisKen](http://www.jobbole.com/members/LeuisKen)、[linacre](http://www.jobbole.com/members/linacre)、[王涛](http://www.jobbole.com/members/wt726553124/)、[neal1991](https://github.com/neal1991)、[luoyjx](https://github.com/luoyjx)、[appleshowc](https://github.com/appleshowc)、[TAMMENY](https://github.com/TAMMENY)、[cike8899](https://github.com/cike8899)、[cnzin](https://github.com/cnzin)、[cike8899](https://github.com/cike8899)、[hustcc](https://github.com/hustcc)、[冰斌](http://www.jobbole.com/members/libing1209/)、[邢敏](https://github.com/dfghj44444)、[张小然](https://github.com/hellozhangran)
 
 注：名单不分排名，不定期补充更新
 
 * * *
 
-### 奖励计划
+<!-- ### 奖励计划
 
 虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
 
@@ -59,7 +59,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
 * [奖励详情](http://hao.jobbole.com/rewards/)
 
-* * *
+* * * -->
 ### 目录
 
 * [JavaScript资源大全中文版](#awesome-javascript-cn)
@@ -169,6 +169,7 @@ JavaScript 的模块或加载系统。
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
 * webpack：为浏览器打包 CommonJs/AMD 模块。[官网](https://github.com/webpack/webpack)
 * gulp：用自动化构建工具增强你的工作流程！[官网](http://gulpjs.com/)
+* rollup: JavaScript 模块打包器! [官网](https://rollupjs.org/) [中文](http://www.rollupjs.com/)
 
 <h2 id="testing-frameworks">测试框架</h2>
 
@@ -484,6 +485,8 @@ Web 数据可视化工具
 * crossroads：JavaScript 路由。[官网](https://github.com/millermedeiros/crossroads.js)
 * davis.js：使用 pushState、RESTful 风格和可降级的 JavaScript 路由器。[官网](https://github.com/olivernn/davis.js)
 * [angular-ui-router](http://hao.jobbole.com/angular-ui-router/)：基于AngularJS的可嵌套路由。[官网](http://angular-ui.github.io/ui-router/)
+* react-router: Declarative routing for React [官方](https://github.com/ReactTraining/react-router)
+* vue-router: Declarative routing for Vue [官方](https://router.vuejs.org/)
 
 <h3 id="security">安全性</h3>
 
@@ -822,12 +825,14 @@ Web 数据可视化工具
 <h1 id="resources">资源</h1>
 
 <h3 id="influential-books">有影响力的书</h3>
+
 *具有广泛影响且值得阅读的前端经典书籍。*
 
 * 《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
 * 《你不知道的Javascript》：英文版 "You Don't Know JS"
 
 <h3 id="websites">知名网站</h3>
+
 *值得关注的前端技术站点。*
 
 <h4>中文站点</h4>
@@ -839,6 +844,7 @@ Web 数据可视化工具
 待补充
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
+
 * 前端大全 微博：[@前端大全](http://weibo.com/u/5261893910)
 * 前端大全：专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5 技术文章、工具资源、精选课程和Web技术领域热点资讯。
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg" width=150 height=150>
